@@ -15,7 +15,7 @@ The currency name must be specified after the gamble command and before the bet 
 
 !gamble points 100
 
-Points being the currency name. Changes to currency name won't affect the command. So long as users type the new currency name.
+Points being the currency name of your stream. Changes to currency name won't affect the command. So long as users type the new currency name.
 
 ## Motivation
 
