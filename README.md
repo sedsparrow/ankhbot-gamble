@@ -2,7 +2,7 @@
 
 This is a basic txt file that lists $addpoints and $removepoints commands to mimic the revlo gambling command. 
 
-## Code Example
+## Code Sample
 
 By using ankhbot's $readrandline() a random output will be selected from the file. The file consists of lines like the ones below. 0-59 is a loss. 60-97 is a win. 98-100 will give the user 2x the payout.
 
@@ -16,6 +16,10 @@ The currency name must be specified after the gamble command and before the bet 
 !gamble points 100
 
 Points being the currency name of your stream. Changes to currency name won't affect the command. So long as users type the new currency name.
+
+## Example
+
+![alt text](http://i.imgur.com/6cRGpl2.png)
 
 ## Motivation
 
